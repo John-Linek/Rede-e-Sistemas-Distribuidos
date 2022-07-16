@@ -1,4 +1,4 @@
-# Trabalho de portifólio: Rede e Sistemas Distribuídos. 📚
+# Trabalho de portfólio: Rede e Sistemas Distribuídos. 📚
 
 ## Trabalho de portfólio apresentado como requisito parcial para a obtenção de pontos para a média semestral.
 
